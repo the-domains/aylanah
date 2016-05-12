@@ -1,7 +1,7 @@
 name: aylanah
 favicon: null
-layout_spectrum: 0.9919983730651438
-typography_spectrum: 0.5799896398093551
+layout_spectrum: 1
+typography_spectrum: 0.57035
 title: Ideas + Inspirations
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.43080730619840324
-  lightness: 0.5086517471354455
-  saturation: 0.10927582834847271
-  rhythmicContrast: 0.2453900924883783
+    - '#e8dee6'
+    - '#bdabaf'
+    - '#4d3f3e'
+    - '#050100'
+    - '#730716'
+  brandStrength: 1
+  lightness: 0.625
+  saturation: 0.625
+  rhythmicContrast: 0
 purpose: []

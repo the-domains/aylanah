@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Trying out new techniques with myself as the model is always fun. I feel that it's important for me to know how each pose feels, so I can adequately describe to my clients how to do them. "
-datePublished: '2016-05-12T22:39:20.406Z'
-dateModified: '2016-05-12T22:39:04.218Z'
+datePublished: '2016-05-13T02:48:39.464Z'
+dateModified: '2016-05-12T22:39:25.413Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-12-trying-out-new-techniques-with-myself-as-the-model-is-always.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-12-trying-out-new-techniques-with-myself-as-the-model-is-always.md
 url: trying-out-new-techniques-with-myself-as-the-model-is-always/index.html
 _type: Article
 
